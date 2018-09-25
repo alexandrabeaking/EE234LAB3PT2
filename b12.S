@@ -26,7 +26,7 @@ main:
 	STR r2, [r0, #0x04]
 	STR r3, [r0, #0x08]
 	STR r4, [r0, #0x0C]
-	STR R5, [r0, #0x10]
+	STR r5, [r0, #0x10]
 
 
 loop:
